@@ -1,0 +1,30 @@
+Exception in thread SystemMonitor:
+Traceback (most recent call last):
+  File "/home2/sisodiya.bhoomendra/localpython/python3.9.16/lib/python3.9/threading.py", line 980, in _bootstrap_inner
+    self.run()
+  File "/home2/sisodiya.bhoomendra/localpython/python3.9.16/lib/python3.9/threading.py", line 917, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home2/sisodiya.bhoomendra/venvs/python3.9_global/lib/python3.9/site-packages/wandb/sdk/internal/system/system_monitor.py", line 118, in _start
+    asset.start()
+  File "/home2/sisodiya.bhoomendra/venvs/python3.9_global/lib/python3.9/site-packages/wandb/sdk/internal/system/assets/disk.py", line 76, in start
+    self.metrics_monitor.start()
+  File "/home2/sisodiya.bhoomendra/venvs/python3.9_global/lib/python3.9/site-packages/wandb/sdk/internal/system/assets/interfaces.py", line 168, in start
+    logger.info(f"Started {self._process.name}")
+AttributeError: 'NoneType' object has no attribute 'name'
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+/home2/sisodiya.bhoomendra/venvs/python3.9_global/lib/python3.9/site-packages/transformers/generation/utils.py:1369: UserWarning: Using `max_length`'s default (20) to control the generation length. This behaviour is deprecated and will be removed from the config in v5 of Transformers -- we recommend using `max_new_tokens` to control the maximum length of the generation.
+  warnings.warn(
+Input length of input_ids is 174, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+/home2/sisodiya.bhoomendra/venvs/python3.9_global/lib/python3.9/site-packages/transformers/generation/utils.py:1468: UserWarning: You are calling .generate() with the `input_ids` being on a device type different than your model's device. `input_ids` is on cpu, whereas the model is on cuda. You may experience unexpected behaviors or slower generation. Please make sure that you have put `input_ids` to the correct device by calling for example input_ids = input_ids.to('cuda') before running `.generate()`.
+  warnings.warn(
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Input length of input_ids is 174, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Input length of input_ids is 174, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.

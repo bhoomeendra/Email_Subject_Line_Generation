@@ -1,0 +1,238 @@
+{
+    "os": "Linux-4.15.0-213-generic-x86_64-with-glibc2.27",
+    "python": "3.9.16",
+    "heartbeatAt": "2023-11-06T22:36:41.908974",
+    "startedAt": "2023-11-06T22:36:40.341651",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "host": "gnode083",
+    "username": "sisodiya.bhoomendra",
+    "executable": "/home2/sisodiya.bhoomendra/venvs/python3.9_global/bin/python3.9",
+    "cpu_count": 20,
+    "cpu_count_logical": 40,
+    "cpu_freq": {
+        "current": 1482.5126499999997,
+        "min": 1200.0,
+        "max": 3400.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1200.509,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1202.701,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1202.649,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1202.084,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1203.735,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1202.524,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3162.342,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 2400.025,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 2400.024,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1204.891,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1202.989,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1203.04,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1201.517,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1203.139,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1407.818,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 2966.449,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1204.214,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1203.237,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1705.373,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1202.741,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1199.747,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1201.168,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1200.952,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1201.362,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1200.621,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1201.321,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 2892.486,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 2401.112,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 2399.778,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1200.312,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1201.407,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1201.222,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1201.807,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1200.807,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1414.182,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3342.986,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1200.54,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1200.684,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1702.851,
+            "min": 1200.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1200.959,
+            "min": 1200.0,
+            "max": 3400.0
+        }
+    ],
+    "disk": {
+        "total": 219.00129318237305,
+        "used": 85.13211441040039
+    },
+    "gpu": "NVIDIA GeForce RTX 4080",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4080",
+            "memory_total": 17171480576
+        }
+    ],
+    "memory": {
+        "total": 125.78251647949219
+    }
+}
